@@ -190,3 +190,5 @@ A *script* is:
     - In basic terms: a situation occurs and an *event* alerts the user. 
 
 **Methods** - properties of the obejct can be obtained or altered through methods. 
+
+[<== Back] (README.md)
