@@ -191,4 +191,4 @@ A *script* is:
 
 **Methods** - properties of the obejct can be obtained or altered through methods. 
 
-[<== Back] (README.md)
+[<== Back](README.md)
