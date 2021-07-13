@@ -304,4 +304,4 @@ Result will be a boolean that runs true or false
 
 - *else* statements- if the *first* condition is not met, run a separate sequence. 
 
-[<== Back] (README.md)
+[<== Back](README.md)
