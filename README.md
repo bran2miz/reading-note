@@ -11,3 +11,4 @@ My name is *Brandon Mizutani.*
 ### Reading Notes
 
 [1. Introduction to HTML and JavaScript](reading01.md)
+[2. Basics of HTML, CSS & JS](readingnote-02.md)
