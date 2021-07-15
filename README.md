@@ -13,3 +13,5 @@ My name is *Brandon Mizutani.*
 [1. Introduction to HTML and JavaScript](reading01.md)
 
 [2. Basics of HTML, CSS & JS](readingnote-02.md)
+
+[3. HTML Lists, Control Flow with JS, and the CSS Box Model](readingnote-03.md)
