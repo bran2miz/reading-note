@@ -17,3 +17,5 @@ My name is *Brandon Mizutani.*
 [3. HTML Lists, Control Flow with JS, and the CSS Box Model](readingnote-03.md)
 
 [4. HTML Links, JS Functions, and Intro to CSS Layout](readingnote-04.md)
+
+[5. HTML Images; CSS Color & Text](readingnote-05.md)
