@@ -21,3 +21,5 @@ My name is *Brandon Mizutani.*
 [5. HTML Images; CSS Color & Text](readingnote-05.md)
 
 [6. Problem Domain, Objects, and the DOM](readingnote-06.md)
+
+[7. Object-Oriented Programming, HTML Tables](readingnote-07.md)
