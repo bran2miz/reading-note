@@ -120,5 +120,5 @@ The *driver* types, while the *navigator* does all the writing code, text editin
 
 6. Work Environment Readiness- Code Fellows helps skip the step of paried aptitude, as opposed to computer science graduates who have not do this.
 
-[ <==Back](README.md)
+[<==Back](README.md)
 

@@ -23,3 +23,5 @@ My name is *Brandon Mizutani.*
 [6. Problem Domain, Objects, and the DOM](readingnote-06.md)
 
 [7. Object-Oriented Programming, HTML Tables](readingnote-07.md)
+
+[8. Layout](readingnote-08.md)
