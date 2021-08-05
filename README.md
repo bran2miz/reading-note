@@ -25,3 +25,5 @@ My name is *Brandon Mizutani.*
 [7. Object-Oriented Programming, HTML Tables](readingnote-07.md)
 
 [8. Layout](readingnote-08.md)
+
+[9. Forms and JS Events](readingnote-09.md)
