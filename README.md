@@ -4,8 +4,8 @@ This is my reading notes for **Course 201**
 
 ## About Me
 
-My name is *Brandon Mizutani.* 
-- I am a current student at CodeFellows. 
+My name is *Brandon Mizutani.*
+- I am a current student at CodeFellows.
 - I love to travel, explore new restaurants, and shop.
 
 ### Reading Notes
@@ -27,3 +27,5 @@ My name is *Brandon Mizutani.*
 [8. Layout](readingnote-08.md)
 
 [9. Forms and JS Events](readingnote-09.md)
+
+[10. Debugging](readingnote-10.md)
