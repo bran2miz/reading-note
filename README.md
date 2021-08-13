@@ -29,3 +29,5 @@ My name is *Brandon Mizutani.*
 [9. Forms and JS Events](readingnote-09.md)
 
 [10. Debugging](readingnote-10.md)
+
+[11. Audio, Video, Images](readingnote-11.md)
