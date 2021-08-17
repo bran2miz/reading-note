@@ -31,3 +31,5 @@ My name is *Brandon Mizutani.*
 [10. Debugging](readingnote-10.md)
 
 [11. Audio, Video, Images](readingnote-11.md)
+
+[12. Chart.js, Canvas](readingnote-12.md)
