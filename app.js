@@ -147,8 +147,14 @@ function renderChart() {
   let myChart = new Chart(ctx, chartObject);
 }
 
+function storeProducts() {
+  let stringifiedProducts = JSON.stringify(allProducts);
+  localStorage.setItem('products', stringifiedProducts);
+  console.log(stringifiedProducts);
+}
 
 
 myContainer.addEventListener('click', handleProductClick);
+
 // myButton.addEventListener('click', renderResults);
 
