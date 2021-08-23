@@ -35,3 +35,5 @@ My name is *Brandon Mizutani.*
 [12. Chart.js, Canvas](readingnote-12.md)
 
 [13. Local Storage](readingnote-13.md)
+
+[14. CSS Transforms, Transitions, and Animations/ What Google Learned About Teams](readingnote-14.md)
