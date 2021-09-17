@@ -58,4 +58,7 @@
 3.What is the flow of props?
 Flow is one directional.
 
+## Things I want to know more about
+"Interpolation"
+
 [<== BACK](README.md)
