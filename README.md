@@ -1,4 +1,4 @@
-Code 201 Reading Notes
+# Code Fellows Reading Notes
 
 This is my reading notes for **Course 201**
 
@@ -8,7 +8,7 @@ My name is *Brandon Mizutani.*
 - I am a current student at CodeFellows.
 - I love to travel, explore new restaurants, and shop.
 
-### Reading Notes
+### CODE 201 Reading Notes - Foundations of Software Development
 
 [1. Introduction to HTML and JavaScript](reading01.md)
 
@@ -37,3 +37,9 @@ My name is *Brandon Mizutani.*
 [13. Local Storage](readingnote-13.md)
 
 [14. CSS Transforms, Transitions, and Animations/ What Google Learned About Teams](readingnote-14.md)
+
+### CODE 301 Reading Notes - Intermediate Software Development
+
+[1. Introduction to React and Components](readingnote-15.md)
+
+### Code 401 Reading Notes - Advanced Software Development
