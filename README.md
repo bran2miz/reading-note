@@ -42,4 +42,6 @@ My name is *Brandon Mizutani.*
 
 [1. Introduction to React and Components](readingnote-15.md)
 
+[2. State and Props](readingnote-16.md)
+
 ### Code 401 Reading Notes - Advanced Software Development
