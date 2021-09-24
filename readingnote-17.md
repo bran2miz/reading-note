@@ -65,4 +65,4 @@ The Spread Operator
 
   You also want to define within the prop the *name* so that the value is sent back. To do this, within the .prop method, you can also include the this.props.name.
 
-[<==](README.md)
+[<==BACK](README.md)
