@@ -44,4 +44,6 @@ My name is *Brandon Mizutani.*
 
 [2. State and Props](readingnote-16.md)
 
+[3. Passing Functions as Props](readingnote-17.md)
+
 ### Code 401 Reading Notes - Advanced Software Development
