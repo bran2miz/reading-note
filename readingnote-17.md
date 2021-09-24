@@ -65,4 +65,8 @@ The Spread Operator
 
   You also want to define within the prop the *name* so that the value is sent back. To do this, within the .prop method, you can also include the this.props.name.
 
+## Things I want to know more about
+
+How does the child component invoke a method that was passed to it from a parent component.
+
 [<==BACK](README.md)
