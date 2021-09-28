@@ -23,4 +23,8 @@ The Conditional (Ternary) Operator Explained
 **Answer**
   (x===y) ? console.log(true) : console.log(false);
 
+## Things I want to know more about
+
+Should we wait to store the users responses from the form into state when they submit the form OR should we update the state with their responses as soon as they enter them? **Why.** still confused about the why
+
 [<==BACK](README.md)
