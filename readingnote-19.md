@@ -37,7 +37,6 @@
 
 ## Things I want to know more about
 
-Reduce() methods
+Reduce() methodS
 
-  [<==](README.md)
-  
+  [<== BACK](README.md)
