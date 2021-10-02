@@ -48,4 +48,6 @@ My name is *Brandon Mizutani.*
 
 [4. React and Forms](readingnote-18.md)
 
+[5. Higher Order Functions](readingnote-19.md)
+
 ### Code 401 Reading Notes - Advanced Software Development
