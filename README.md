@@ -50,4 +50,6 @@ My name is *Brandon Mizutani.*
 
 [5. Higher Order Functions](readingnote-19.md)
 
+[6. NodeJS](readingnote-20.md)
+
 ### Code 401 Reading Notes - Advanced Software Development
