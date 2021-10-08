@@ -43,4 +43,8 @@ The Movie DB API Docs
 Did you get your API key?
   yes
 
+## Things I want to know more about
+
+**Patch**
+
 [<==BACK](README.md)
