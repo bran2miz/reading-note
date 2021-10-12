@@ -1,4 +1,4 @@
-# Putting it all together
+# Reading 05 - Putting it all together
 
 ## React Docs - Thinking in React
 

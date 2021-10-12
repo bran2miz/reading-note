@@ -54,4 +54,6 @@ My name is *Brandon Mizutani.*
 
 [7. REST](readingnote-21.md)
 
+[8. API's](readingnote-22.md)
+
 ### Code 401 Reading Notes - Advanced Software Development
