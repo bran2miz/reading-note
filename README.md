@@ -56,4 +56,6 @@ My name is *Brandon Mizutani.*
 
 [8. API's](readingnote-22.md)
 
+[9. Functional Programming](readingnote-23.md)
+
 ### Code 401 Reading Notes - Advanced Software Development
