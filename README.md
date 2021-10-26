@@ -62,4 +62,6 @@ My name is *Brandon Mizutani.*
 
 [11. Mongo and Mongoose](readingnote-25.md)
 
+[12. CRUD](readingnote-26.md)
+
 ### Code 401 Reading Notes - Advanced Software Development
