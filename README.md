@@ -66,4 +66,6 @@ My name is *Brandon Mizutani.*
 
 [13. Diversity & Inclusion in the Tech Industry](readingnote-27.md)
 
+[14. Authentication](readingnote-28.md)
+
 ### Code 401 Reading Notes - Advanced Software Development
