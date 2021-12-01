@@ -71,3 +71,5 @@ My name is *Brandon Mizutani.*
 ### Code 401 Reading Notes - Advanced Software Development
 
 [Growth Mindset](growth-mindset.md)
+
+[1. Topics](readingnote-29.md)
