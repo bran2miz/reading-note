@@ -1,11 +1,11 @@
 # Code Fellows Reading Notes
 
-This is my reading notes for **Course 201**
+This is my reading notes for **Code Fellows**
 
 ## About Me
 
 My name is *Brandon Mizutani.*
-- I am a current student at CodeFellows.
+- I am a current student at Code Fellows.
 - I love to travel, explore new restaurants, and shop.
 
 ### CODE 201 Reading Notes - Foundations of Software Development
@@ -69,3 +69,5 @@ My name is *Brandon Mizutani.*
 [14. Authentication](readingnote-28.md)
 
 ### Code 401 Reading Notes - Advanced Software Development
+
+[Growth Mindset](growth-mindset.md)
