@@ -73,3 +73,5 @@ My name is *Brandon Mizutani.*
 [Growth Mindset](growth-mindset.md)
 
 [1. Topics](readingnote-29.md)
+
+[2. Testing and Modules](readingnote-30.md)
