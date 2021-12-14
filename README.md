@@ -77,3 +77,5 @@ My name is *Brandon Mizutani.*
 [2. Testing and Modules](readingnote-30.md)
 
 [3. FileIO & Exceptions](readingnote-31.md)
+
+[4. Topics](readingnote-32.md)
