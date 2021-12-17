@@ -79,3 +79,5 @@ My name is *Brandon Mizutani.*
 [3. FileIO & Exceptions](readingnote-31.md)
 
 [4. Topics](readingnote-32.md)
+
+[5. Linked Lists](readingnote-33.md)
