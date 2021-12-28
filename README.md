@@ -83,3 +83,5 @@ My name is *Brandon Mizutani.*
 [5. Linked Lists](readingnote-33.md)
 
 [6. Game of Greed 1](readingnote-34.md)
+
+[7. Game of Greed 2](readingnote-35.md)
