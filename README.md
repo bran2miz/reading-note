@@ -91,3 +91,5 @@ My name is *Brandon Mizutani.*
 [9. Game of Greed 4](readingnote-37.md)
 
 [10. Implementation: Stacks and Queues](readingnote-38.md)
+
+[11. Data Analysis](readingnote-39.md)
