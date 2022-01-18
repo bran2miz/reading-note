@@ -93,3 +93,5 @@ My name is *Brandon Mizutani.*
 [10. Implementation: Stacks and Queues](readingnote-38.md)
 
 [11. Data Analysis](readingnote-39.md)
+
+[12. Pandas](readingnote-40.md)
