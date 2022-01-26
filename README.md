@@ -97,3 +97,5 @@ My name is *Brandon Mizutani.*
 [12. Pandas](readingnote-40.md)
 
 [13. Linear Regressions](readingnote-41.md)
+
+[14. Data Visualization](readingnote-42.md)
