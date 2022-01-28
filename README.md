@@ -99,3 +99,5 @@ My name is *Brandon Mizutani.*
 [13. Linear Regressions](readingnote-41.md)
 
 [14. Data Visualization](readingnote-42.md)
+
+[15. Trees](readingnote-43.md)
