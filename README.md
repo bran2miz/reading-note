@@ -101,3 +101,5 @@ My name is *Brandon Mizutani.*
 [14. Data Visualization](readingnote-42.md)
 
 [15. Trees](readingnote-43.md)
+
+[16. Serverless Functions](readingnote-44.md)
