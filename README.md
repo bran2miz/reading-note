@@ -103,3 +103,5 @@ My name is *Brandon Mizutani.*
 [15. Trees](readingnote-43.md)
 
 [16. Serverless Functions](readingnote-44.md)
+
+[17. Web Scraping](readingnote_45.md)
