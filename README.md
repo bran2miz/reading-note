@@ -104,4 +104,6 @@ My name is *Brandon Mizutani.*
 
 [16. Serverless Functions](readingnote-44.md)
 
-[17. Web Scraping](readingnote_45.md)
+[17. Web Scraping](readingnote-45.md)
+
+[18. Cryptography](readingnote-46.md)
