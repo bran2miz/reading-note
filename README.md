@@ -107,3 +107,5 @@ My name is *Brandon Mizutani.*
 [17. Web Scraping](readingnote-45.md)
 
 [18. Cryptography](readingnote-46.md)
+
+[19. Automation](readingnote-47.md)
