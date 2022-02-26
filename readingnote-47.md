@@ -90,3 +90,5 @@ shutil includes three functions for working with directory trees.
 
 -python standard library includes many modules for managing archive file.
 -**shutil.get_archive_format()** - returns a sequence of names and descriptions for formats supported on current system.
+
+[<==BACK](README.md)

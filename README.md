@@ -109,3 +109,5 @@ My name is *Brandon Mizutani.*
 [18. Cryptography](readingnote-46.md)
 
 [19. Automation](readingnote-47.md)
+
+[20. Intro to Django](readingnote-48.md)
