@@ -111,3 +111,5 @@ My name is *Brandon Mizutani.*
 [19. Automation](readingnote-47.md)
 
 [20. Intro to Django](readingnote-48.md)
+
+[21. Django Models](readingnote-49.md)
