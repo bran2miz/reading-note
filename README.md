@@ -113,3 +113,5 @@ My name is *Brandon Mizutani.*
 [20. Intro to Django](readingnote-48.md)
 
 [21. Django Models](readingnote-49.md)
+
+[22. Django CRUD and Forms](readingnote-50.md)
