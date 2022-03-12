@@ -117,3 +117,5 @@ My name is *Brandon Mizutani.*
 [22. Django CRUD and Forms](readingnote-50.md)
 
 [23. Django Custom User](readingnote-51.md)
+
+[24. Hash Tables](readingnote-52.md)
