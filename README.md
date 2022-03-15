@@ -119,3 +119,5 @@ My name is *Brandon Mizutani.*
 [23. Django Custom User](readingnote-51.md)
 
 [24. Hash Tables](readingnote-52.md)
+
+[25. Django REST Framework & Docker](readingnote-53.md)
