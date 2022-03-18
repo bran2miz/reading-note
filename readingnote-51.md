@@ -1,4 +1,4 @@
-# Reading 23 - Django Custom User
+# Reading 29 - Django Custom User
 
 ## Django Custom User Model
 

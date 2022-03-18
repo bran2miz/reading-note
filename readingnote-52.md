@@ -1,4 +1,4 @@
-# Reading 24 - Hash Tables
+# Reading 30 - Hash Tables
 
 ## Intro to Hash Tables
 
