@@ -123,3 +123,5 @@ My name is *Brandon Mizutani.*
 [31. Django REST Framework & Docker](readingnote-53.md)
 
 [32. Permissions & Postgresql](readingnote-54.md)
+
+[33. Authentication & Production Server](readingnote-55.md)
