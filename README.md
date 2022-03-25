@@ -125,3 +125,5 @@ My name is *Brandon Mizutani.*
 [32. Permissions & Postgresql](readingnote-54.md)
 
 [33. Authentication & Production Server](readingnote-55.md)
+
+[34. API Deployment](readingnote-56.md)
