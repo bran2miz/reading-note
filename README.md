@@ -133,3 +133,5 @@ My name is *Brandon Mizutani.*
 [36. DSA Review](readingnote-58.md)
 
 [37. React 1](readingnote-59.md)
+
+[38. React 2](readingnote-60.md)
