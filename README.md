@@ -135,3 +135,5 @@ My name is *Brandon Mizutani.*
 [37. React 1](readingnote-59.md)
 
 [38. React 2](readingnote-60.md)
+
+[39. React 3](readingnote-61.md)
