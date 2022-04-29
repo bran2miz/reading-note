@@ -139,3 +139,7 @@ My name is *Brandon Mizutani.*
 [39. React 3](readingnote-61.md)
 
 [40. React 4](readingnote-62.md)
+
+[41. Pythonisms](readingnote-63.md)
+
+[42. Open Source Sofware Contributions](readingnote-64.md)
